@@ -1,0 +1,12 @@
+Microsoft.VisualStudio.Web.CodeGeneration.Design
+
+Microsoft.EntityFrameworkCore.Tools
+
+Microsoft.EntityFrameworkCore.SqlServer
+
+Microsoft.VisualStudio.Web.CodeGeneration
+
+Microsoft.VisualStudio.Web.CodeGeneration.Util
+
+
+Scaffold-DbContext "Connection String;Trusted_Connection=True;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models
